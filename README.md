@@ -26,36 +26,46 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
-## Output
-PING:
-<img width="1040" height="855" alt="Screenshot 2026-05-20 234028" src="https://github.com/user-attachments/assets/ef186433-ff86-49fc-a97f-4b603ca15946" />
+## Output:
+ping:
 
-NETSTAT -S:
-<img width="497" height="947" alt="Screenshot 2026-05-20 234101" src="https://github.com/user-attachments/assets/122adfda-50c4-439c-98bb-2069a0c16ad1" />
+<img width="824" height="349" alt="Screenshot 2026-05-23 195959" src="https://github.com/user-attachments/assets/31aabbcd-20b9-4479-ae6c-b48aa021dc5c" />
 
-PATHPING:
-<img width="827" height="382" alt="Screenshot 2026-05-20 234117" src="https://github.com/user-attachments/assets/8d521678-1952-45ab-bda4-45ead6d1f499" />
+tracert:
 
-TRACERT:
-<img width="862" height="336" alt="Screenshot 2026-05-20 234124" src="https://github.com/user-attachments/assets/fb5d3143-531a-4d44-b8d7-ea36baf6031d" />
+<img width="1094" height="363" alt="Screenshot 2026-05-23 200006" src="https://github.com/user-attachments/assets/f7c9ec23-ede0-4c61-958c-f90000edf381" />
 
-NSLOOKUP:
-<img width="457" height="207" alt="Screenshot 2026-05-20 234130" src="https://github.com/user-attachments/assets/63f26185-f9de-4876-bfdc-4886d938503c" />
+nslookup:
 
-GETAMAC /V:
-<img width="1342" height="151" alt="Screenshot 2026-05-20 234139" src="https://github.com/user-attachments/assets/fb6aaa6b-ccef-4d3b-abf6-307a384b17e0" />
+<img width="1287" height="599" alt="Screenshot 2026-05-23 200016" src="https://github.com/user-attachments/assets/5899c05e-97e5-43ea-8e5a-3f3c420389aa" />
 
-ARP:
-<img width="1116" height="790" alt="Screenshot 2026-05-20 234148" src="https://github.com/user-attachments/assets/051e5959-418b-4fd5-8f59-47e0291a14b6" />
+pathping:
 
-NETSH INTERFACE SHOW:
-<img width="470" height="150" alt="Screenshot 2026-05-20 234158" src="https://github.com/user-attachments/assets/4fca222d-f004-4e33-b3e0-3fb17e01e6ed" />
+<img width="1392" height="412" alt="Screenshot 2026-05-23 200715" src="https://github.com/user-attachments/assets/ebfa0f4f-13d0-4d05-b2fd-476fbf15cde9" />
 
-NBTSTAT -N:
-<img width="897" height="688" alt="Screenshot 2026-05-20 234218" src="https://github.com/user-attachments/assets/59202218-74e9-4217-8629-04923629f076" />
 
-IPCONFIG:
-<img width="897" height="688" alt="Screenshot 2026-05-20 234218" src="https://github.com/user-attachments/assets/34477785-1332-462f-8e31-b160c7f5e9aa" />
+net statistics:
+
+<img width="585" height="509" alt="Screenshot 2026-05-23 200117" src="https://github.com/user-attachments/assets/c2f32b72-8ae0-437c-ab54-1c3123bd09c3" />
+
+net wlan show all:
+
+<img width="1291" height="785" alt="Screenshot 2026-05-23 200129" src="https://github.com/user-attachments/assets/d7689d3c-dc1e-4fb9-b19a-79ceb0453de8" />
+
+netsh interface show:
+
+<img width="709" height="510" alt="Screenshot 2026-05-23 200137" src="https://github.com/user-attachments/assets/d0161a9e-e0b2-4e71-bdd0-8143f363e6a9" />
+
+net view:
+
+<img width="960" height="227" alt="Screenshot 2026-05-23 200934" src="https://github.com/user-attachments/assets/d1d140a2-62bf-4b25-bcdb-845342a4555d" />
+
+getmac /v:
+
+<img width="952" height="305" alt="Screenshot 2026-05-23 201055" src="https://github.com/user-attachments/assets/0dcea0c7-2414-4dc4-93cc-7c05c6c6549f" />
+
+netstat -s:
+<img width="313" height="973" alt="Screenshot 2026-05-23 200159" src="https://github.com/user-attachments/assets/d06357d5-a269-419c-9e61-5b49dfd2bcc5" />
 
 ## Result
 Thus Execution of Network commands Performed 
